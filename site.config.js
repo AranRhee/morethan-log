@@ -16,6 +16,7 @@ const CONFIG = {
   //     href: "https://github.com/morethanmin/morethan-log",
   //   },
   // ],
+    projects : false,
   // blog setting (required)
   blog: {
     title: "Dev Log😎",
